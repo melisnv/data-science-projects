@@ -7,3 +7,4 @@ Projects for data science
 
 [Mobile Price Prediction](https://www.kaggle.com/code/melisnurverir/mobile-price-prediction)
 
+[Lead Calculation with Rule-Based Classification](https://www.kaggle.com/code/melisnurverir/lead-calculation-with-rule-based-classification)
