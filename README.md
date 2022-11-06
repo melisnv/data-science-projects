@@ -10,3 +10,5 @@ Projects for data science
 [Lead Calculation with Rule-Based Classification](https://www.kaggle.com/code/melisnurverir/lead-calculation-with-rule-based-classification)
 
 [IMDB Movie Scoring and Sorting Techniques](https://www.kaggle.com/code/melisnurverir/imdb-movie-scoring-and-sorting-method)
+
+[Rating Product & Sorting Reviews in Amazon](https://www.kaggle.com/code/melisnurverir/rating-product-sorting-reviews-in-amazon)
