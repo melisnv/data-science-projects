@@ -14,3 +14,5 @@ Projects for data science
 [Rating Product & Sorting Reviews in Amazon](https://www.kaggle.com/code/melisnurverir/rating-product-sorting-reviews-in-amazon)
 
 [Comparison of AB Test and Conversion of Bidding Methods](https://www.kaggle.com/code/melisnurverir/ab-test-conversion-of-bidding-methods/notebook)
+
+[Recommender Systems](https://www.kaggle.com/melisnurverir/movielens-recommender-system-case-study)
