@@ -62,9 +62,9 @@ merged_data.columns = ["acc_x",
                        "gyr_x",
                        "gyr_y",
                        "gyr_z",
+                       "participant",
                        "label",
                        "category",
-                       "participant",
                        "set"]
 
 # Frequency Conversion
