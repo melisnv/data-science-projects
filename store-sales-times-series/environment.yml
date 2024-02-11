@@ -4,11 +4,11 @@
 #
 #    conda env create -f environment.yml
 #    conda env update --file environment.yml --prune
-#    conda env export --name tracking-barbell-exercises > environment.yml
-#    conda env remove --name tracking-barbell-exercises
+#    conda env export --name store-sales-project > environment.yml
+#    conda env remove --name store-sales-project
 #    conda env list
 
-name: tracking-barbell-exercises
+name: store-sales-project
 channels:
   - anaconda
   - conda-forge
@@ -25,3 +25,8 @@ dependencies:
       - jupyter-client==7.4.7
       - jupyter-core==5.1.0
       - matplotlib==3.6.2
+      - tensorflow==2.7.0
+      - xgboost==1.5.0
+      - prophet==1.0.1
+      - seaborn==0.11.2 
+      - missingno==0.4.2 
